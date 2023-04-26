@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-chromeOS style icons for Linux
+chromeOS style icons for Linux  
 A continuation of the inactive Vector-icons project
 
 ## Based on
