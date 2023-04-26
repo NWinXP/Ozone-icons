@@ -8,6 +8,7 @@ A continuation of the inactive Vector-icons project
 ## Based on
 
 * Vimix-icon-theme (https://github.com/vinceliuice/vimix-icon-theme)
+* Tela-circle-icon-theme (https://github.com/vinceliuice/tela-circle-icon-theme)
 * Vector-icons (https://github.com/kuroehanako/Vector-icons)
 
 ## Recommend Settings with this icon
