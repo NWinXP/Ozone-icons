@@ -1,12 +1,14 @@
-# Vector-icons
+# Ozone-icons
 
 ![logo](logo.png)
 
-Google Pixel & Chrome OS Style Icons for Linux
+chromeOS style icons for Linux
+A continuation of the inactive Vector-icons project
 
 ## Based on
 
 * Vimix-icon-theme (https://github.com/vinceliuice/vimix-icon-theme)
+* Vector-icons (https://github.com/kuroehanako/Vector-icons)
 
 ## Recommend Settings with this icon
 
