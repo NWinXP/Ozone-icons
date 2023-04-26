@@ -1,6 +1,6 @@
 # Ozone-icons
 
-![logo](logo.png)
+![logo](project.png)
 
 chromeOS style icons for Linux  
 A continuation of the inactive Vector-icons project
