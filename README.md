@@ -3,7 +3,7 @@
 ![logo](project.png)
 
 chromeOS style icons for Linux  
-A continuation of the inactive Vector-icons project
+Ozone is a continuation of the inactive Vector-icons project that brings M3 (Material You) icons to Linux desktops.
 
 ## Based on
 
